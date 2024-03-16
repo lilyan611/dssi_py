@@ -37,7 +37,7 @@ def app_body():
     title = '''
 <div style="text-align: center;">
     <p style="font-family:arial, sans-serif; color:Black; font-size: 40px;"><b>Welcome to DSSI Loan Assessment</b></p>
-    <p style="font-family:arial, sans-serif; color:Black; font-size: 30px;">Ziyuan Feng</p>
+    <p style="font-family:arial, sans-serif; color:Black; font-size: 30px;">Leyan Qiu</p>
 </div>
 '''
     st.markdown(title, unsafe_allow_html=True)
